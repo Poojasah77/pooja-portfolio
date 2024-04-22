@@ -21,7 +21,7 @@ const Skills = () => {
     <BigWrapper>
       <div id="technologies_page">
         <h1 className="text-2xl font-bold text-violet-500 mb-4">
-          Technologies
+          Skills
         </h1>
         <div className="flex gap-8 flex-wrap">
           {skills.map((val) => {
