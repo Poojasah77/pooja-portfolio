@@ -14,6 +14,8 @@ const Skills = () => {
     "C++",
     "MySQL",
     "GitHub",
+    "TailwindCSS",
+    "MongoDB"
   ];
   return (
     <BigWrapper>
