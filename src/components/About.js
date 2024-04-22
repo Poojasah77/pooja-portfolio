@@ -5,7 +5,7 @@ const About = () => {
   return (
     <BigWrapper>
       <div className="flex flex-col sm:flex-row gap-4" id="about_page">
-        <img src="pooja2.png" alt="pooja2" className="w-full sm:w-1/2 lg:w-1/3 h-auto object-cover" />
+        <img src="pooja.jpeg" alt="pooja2" className="w-full sm:w-1/2 lg:w-1/3 h-auto object-cover" />
         <div className="mt-4 sm:mt-0 sm:w-1/2 lg:w-2/3">
           <h1 className="font-bold text-3xl mb-4 text-violet-500">About</h1>
           <div className="text-gray-800">
