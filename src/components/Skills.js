@@ -11,7 +11,7 @@ const Skills = () => {
     "Dot Net",
     "PHP",
     "C",
-    "C++",
+    "c++",
     "MySQL",
     "GitHub",
     "TailwindCSS",
